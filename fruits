@@ -1,0 +1,9 @@
+fruits = ["яблоко", "банан", "вишня"]
+
+fruits.append("апельсин")
+
+print(fruits)
+
+fruits.remove("банан")
+
+print(fruits)
